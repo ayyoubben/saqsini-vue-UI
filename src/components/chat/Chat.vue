@@ -1,0 +1,139 @@
+<template>
+  <div>
+    <app-nav-bar-sear></app-nav-bar-sear>
+     <div class=" row no-gutters">
+                            <div class="col-md-4 border-right">
+                                <div class="friend-drawer friend-drawer onhover" style=" padding: 15px 5px;display: flex;vertical-align: baseline;background: #FB3349;transition: .3s ease;border: 1px;">
+                                    <img class="profile-image" src="./20200414_230736.jpg" alt="" style=" width: 67px;height: 67px;border-radius: 100%;">
+                                    <div class="text" style="margin-left: 10px;width: 70%;">
+                                      <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">ramy</h5>
+                                      <p class="text-muted" style="margin: 0;color:rgb(223, 205, 205)!important;">Hey, you're arrested!</p>
+                                    </div>
+                                    <span class="text-muted-small" style="color:rgb(247, 240, 240)!important;" >00:32 AM</span>
+                                  </div>
+                              <div class="friend-drawer friend-drawer onhover" style=" padding: 15px 5px;display: flex;vertical-align: baseline;background: #FB3349;transition: .3s ease;border: 1px;">
+                                  <img class="profile-image" src="./20200414_230736.jpg" alt="" style=" width: 67px;height: 67px;border-radius: 100%;">
+                                  <div class="text" style="margin-left: 10px;width: 70%;">
+                                    <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">ramy</h5>
+                                    <p class="text-muted" style="margin: 0;color:rgb(223, 205, 205)!important;">Hey, you're arrested!</p>
+                                  </div>
+                                  <span class="text-muted-small" style="color:rgb(247, 240, 240)!important;">00:32 AM</span>
+                                </div>
+                              <div class="friend-drawer friend-drawer onhover" style=" padding: 15px 5px;display: flex;vertical-align: baseline;background: #FB3349;transition: .3s ease;border: 1px;">
+                                <img class="profile-image" src="./20200414_230736.jpg" alt="" style=" width: 67px;height: 67px;border-radius: 100%;">
+                                <div class="text" style="margin-left: 10px;width: 70%;">
+                                  <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">ramy</h5>
+                                  <p class="text-muted" style="margin: 0;color:rgb(223, 205, 205)!important;">Hey, you're arrested!</p>
+                                </div>
+                                <span class="text-muted-small" style="color:rgb(247, 240, 240)!important;">00:32 AM</span>
+                              </div>
+                            
+                              <div class="friend-drawer friend-drawer onhover" style=" padding: 15px 5px;display: flex;vertical-align: baseline;background: #FB3349;transition: .3s ease;border: 1px;">
+                                <img class="profile-image" src="./20200414_230736.jpg" alt="" style=" width: 67px;height: 67px;border-radius: 100%;">
+                                <div class="text" style="margin-left: 10px;width: 70%;">
+                                  <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">Optimus</h5>
+                                  <p class="text-muted" style="margin: 0;color:rgb(223, 205, 205)!important;">Wanna grab a beer?</p>
+                                </div>
+                                <span class="text-muted-small" style="color:rgb(247, 240, 240)!important;">00:32 AM</span>
+                              </div>
+                              
+                              <div class="friend-drawer friend-drawer onhover" style=" padding: 15px 5px;display: flex;vertical-align: baseline;background: #FB3349;transition: .3s ease;border: 1px;">
+                                <img class="profile-image" src="./20200414_230736.jpg" alt="" style=" width: 67px;height: 67px;border-radius: 100%;">
+                                <div class="text" style="margin-left: 10px;width: 70%;">
+                                  <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">Skynet</h5>
+                                  <p class="text-muted" style="margin: 0;color:rgb(223, 205, 205)!important;">Seen that canned piece of s?</p>
+                                </div>
+                                <span class="text-muted-small" style="color:rgb(247, 240, 240)!important;">13:21 AM</span>
+                              </div>
+                              
+                              <div class="friend-drawer friend-drawer onhover" style=" padding: 15px 5px;display: flex;vertical-align: baseline;background: #FB3349;transition: .3s ease;border: 1px;">
+                                <img class="profile-image" src="./IMG_20200502_010315_311.jpg" alt="" style=" width: 67px;height: 67px;border-radius: 100%;">
+                                <div class="text" style="margin-left: 10px;width: 70%;">
+                                  <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">Termy</h5>
+                                  <p class="text-muted" style="margin: 0;color:rgb(223, 205, 205)!important;">Im studying spanish...</p>
+                                </div>
+                                <span class="text-muted-small" style="color:rgb(247, 240, 240)!important;">13:21 AM</span>
+                              </div>
+                              
+                              <div class="friend-drawer friend-drawer onhover" style=" padding: 15px 5px;display: flex;vertical-align: baseline;background: #FB3349;transition: .3s ease;border: 1px;">
+                                <img class="profile-image" src="./IMG_20200502_010315_311.jpg" alt="" style=" width: 67px;height: 67px;border-radius: 100%;">
+                                <div class="text" style="margin-left: 10px;width: 70%;">
+                                  <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">Richard</h5>
+                                  <p class="text-muted" style="margin: 0;color:rgb(223, 205, 205)!important;">I'm not sure...</p>
+                                </div>
+                                <span class="text-muted-small" style="color:rgb(247, 240, 240)!important;">13:21 PM</span>
+                              </div>
+                              
+
+                            </div>
+                            <div class="col-md-8">
+                              <div class="settings-tray">
+                                  <div class="friend-drawer no-gutters friend-drawer grey">
+                                  <div class="text">
+                                    <h5 style="margin-left: 5px;color:rgb(247, 240, 240)!important;">kawthar</h5>
+                                    <p class="text-muted">Layin' down the law since like before Christ...</p>
+                                  </div>
+
+                                </div>
+                              </div>
+                              <div class="chat-panel" style="background-color: #E3E3E3;">
+                                  <h4 style="color: #FB3349;">Moi</h4>
+                                  <div class="barre-moi" style="border-left: 6px solid white;background-color: #E3E3E3;padding: 10px;margin-left: 5px;">
+                                      
+                                      <p>Hello. How are you today?</p>
+                                      <span class="time-right" style="float: right; color: #aaa;">11:00 PM</span>
+                                    </div>
+                                    <h4 style="color: #FB3349;">Toi</h4>
+                                    <div class="barre" style="border-left: 6px solid #FB3349;background-color: #E3E3E3;padding: 10px;margin-left: 5px;">
+                                      <p>Hey! I'm fine. Thanks for asking!</p>
+                                      <span class="time-right" style="float: right; color: #aaa;">11:0 PM</span>
+                                    </div>
+                                    <h4 style="color: #FB3349;">Moi</h4>
+                                    <div class="barre-moi" style="border-left: 6px solid white;background-color: #E3E3E3;padding: 10px;margin-left: 5px;">
+                                      <p>Sweet! So, what do you wanna do today?</p>
+                                      <span class="time-right" style="float: right; color: #aaa;">11:02 PM</span>
+                                    </div>
+                                    <h4 style="color: #FB3349;">Toi</h4>
+                                    <div class="barre " style="border-left: 6px solid #FB3349;background-color: #E3E3E3;padding: 10px;margin-left: 5px;">
+                                      <p>Nah, I dunno. Play soccer.. or learn more coding perhaps?</p>
+                                      <span class="time-right" style="float: right; color: #aaa;">11:05 PM</span>
+                                    </div>
+                                    <h4 style="color: #FB3349;">Moi</h4>
+                                    <div class="barre-moi" style="border-left: 6px solid white;background-color: #E3E3E3;padding: 10px;margin-left: 5px;">
+                                      <p>Sweet! So, what do you wanna do today?</p>
+                                      <span class="time-right" style="float: right; color: #aaa;">11:02 PM</span>
+                                    </div>
+                                    <h4 style="color: #FB3349;">Toi</h4>
+                                    <div class="barre " style="border-left: 6px solid #FB3349;background-color: #E3E3E3;padding: 10px;margin-left: 5px;">
+                                      <p>Nah, I dunno. Play soccer.. or learn more coding perhaps?</p>
+                                      <span class="time-right" style="float: right; color: #aaa;">11:05 PM</span>
+                                    </div>
+                                    <div class="chat-box-tray" style=" width: 100%;background:#FB3349;display: flex;align-items: baseline;padding: 15px 5px;align-items: center; margin-top: 19px; bottom: 0;">
+                                          <i class="far fa-smile-wink" style="color: rgb(63, 60, 60);font-size: 30px;margin:0 20px 0 20px;float: right;"></i>
+                                      <input type="text" placeholder="Type your message here..." style="border: none;border-radius: 50px;width: 90%; margin: 0 10px;padding: 6px 10px;">
+                                      
+                                      <i class="fas fa-paper-plane" style="color: rgb(63, 60, 60);font-size: 30px;margin:0 20px 0 20px;float: right;"></i>
+                                    </div>
+                                  
+                                
+                              </div>
+                            </div>
+                          </div>
+  </div>
+</template>
+
+<script>
+    import NavBarSear from '../../NavBarSear.vue'
+    export default {  
+      components: {
+        appNavBarSear: NavBarSear,
+      },
+    }  
+
+</script>
+
+<style scoped>
+
+
+
+</style>
